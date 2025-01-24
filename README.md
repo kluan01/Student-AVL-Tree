@@ -22,6 +22,7 @@ printLevelCount
 
 Example Input: 
 ```
+8
 insert "Brandon" 45679999
 insert "Brian" 35459999
 insert "Briana" 87879999
